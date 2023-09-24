@@ -21,7 +21,6 @@ export const page = () => {
 
   </div>
      
-     
   )
   }
 
